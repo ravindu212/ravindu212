@@ -23,7 +23,7 @@ User authenticated: RAVINDU
 
 
 
-<img src="[https://i.imgur.com/Zw8rZgX.gif](https://cdn.pixabay.com/animation/2025/10/23/10/04/10-04-45-513_512.gif)" width="160"/><br>
+<img src="https://cdn.pixabay.com/animation/2025/10/23/10/04/10-04-45-513_512.gif" width="160"/><br>
 
 
 
