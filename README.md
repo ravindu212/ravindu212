@@ -2,6 +2,11 @@
 
 <div align="center">
 
+Initializing...  
+Loading profile...  
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%
+User authenticated: RAVINDU 
+
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗  
 ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗  
 ███████║███████║██║     █████╔╝ █████╗  ██████╔╝  
@@ -10,26 +15,35 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  
 
 ### ⚡ R A V I N D U • V I D U S A R A ⚡  
-**18 y/o Developer | IIT Student | Pythonist | Future Data Scientist**
+**18 y/o Developer | IIT Student | Computer Science**
 
 </div>
+
+
+
+
+
+<img src="[https://i.imgur.com/Zw8rZgX.gif](https://cdn.pixabay.com/animation/2025/10/23/10/04/10-04-45-513_512.gif)" width="160"/><br>
+
+
+
+
 
 ---
 
 ## 🛠️ SKILLSET
-Python ┃ ██████████░░  
-Java ┃ ████████░░░░  
-React ┃ ███████░░░░░  
-TypeScript ┃ ███████░░░░  
-Machine Learning ┃ ████████░░░░  
-Data Analysis ┃ ███████░░░░░  
+PYTHON ███████████████░░░░░ 87%
+MACHINE LEARNING ███████████░░░░░░░░ 78%
+REACT + TYPESCRIPT ████████████░░░░░░░ 80%
+JAVA █████████░░░░░░░░░░ 70%
+DATA ANALYSIS ██████████████░░░░░ 86%
+BACKEND SYSTEMS ███████████░░░░░░░░ 78%
 
 ---
 
 ## 🕶️ ABOUT
 Coding since curiosity sparked.  
 Passionate about Python, algorithms, logic building.  
-Currently developing an e-commerce system with React + TypeScript.  
 Aiming to become a top-tier Computer Scientist & Data Scientist.  
 
 ---
@@ -38,7 +52,7 @@ Aiming to become a top-tier Computer Scientist & Data Scientist.
 🔥 ModelX-Zeus – AI experiments  
 🛒 React E-Commerce – Modular frontend architecture  
 🧠 ML + DS Learning Path – AI fundamentals  
-📱 Mobile & Server-side Dev – Year 2 optional modules  
+📱 Algo & Server-side Dev – Year 2 optional modules  
 
 ---
 
@@ -56,11 +70,13 @@ Aiming to become a top-tier Computer Scientist & Data Scientist.
 ---
 
 ## 🛰️ CONTACT PROTOCOL
-Email: ravindu212@your-email.com  
-LinkedIn: https://linkedin.com/in/your-profile  
+Email: ravinduvidusara09email.com  
+LinkedIn: www.linkedin.com/in/ravindu-vidusara  
 Status: Always debugging life.  
 
 ---
+
+SYSTEM: READY FOR DEPLOYMENT ████████████████████ 100%
 
 <div align="center">
 
