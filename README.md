@@ -73,9 +73,19 @@ Status: Always debugging life.
 ---
 
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="100"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/><br>
-</p>
+  <p align="center">
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="100"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
+    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
+  </p>
 
 
 ---
