@@ -1,46 +1,70 @@
-# > Ravindu Vidusara_
+<!-- HACKER STYLE README FOR RAVINDU -->
 
-```bash
-$ whoami
-> CS Undergrad | Pythonist | Data Science Explorer
+<div align="center">
 
-$ bio
-> IIT Student  
-> Loves Python + analytics  
-> Building AI, backend apps, and debugging life  
-> Mission: Become a top-tier Computer Scientist & Data Scientist
+██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗  
+██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗  
+███████║███████║██║     █████╔╝ █████╗  ██████╔╝  
+██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗  
+██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║  
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  
 
-$ languages
-> Python | Java | JavaScript | TypeScript
+### ⚡ R A V I N D U • V I D U S A R A ⚡  
+**18 y/o Developer | IIT Student | Pythonist | Future Data Scientist**
 
-$ frameworks
-> React | Node.js | Flask | Express
+</div>
 
-$ data_science
-> NumPy | Pandas | Scikit-Learn
+---
 
-$ tools
-> Git | VS Code | Postman
+## 🛠️ SKILLSET
+Python ┃ ██████████░░  
+Java ┃ ████████░░░░  
+React ┃ ███████░░░░░  
+TypeScript ┃ ███████░░░░  
+Machine Learning ┃ ████████░░░░  
+Data Analysis ┃ ███████░░░░░  
 
+---
 
-$ ls ~/projects
-> ModelX-Zeus/          # machine learning experimentation
-> React-Ecommerce/      # modular component architecture
-> more_coming_soon/
+## 🕶️ ABOUT
+Coding since curiosity sparked.  
+Passionate about Python, algorithms, logic building.  
+Currently developing an e-commerce system with React + TypeScript.  
+Aiming to become a top-tier Computer Scientist & Data Scientist.  
 
+---
 
-$ now
-> Strengthening backend logic  
-> Learning mobile development  
-> Studying ML workflows  
-> Fixing communication_skills.exe
+## 🚀 PROJECT VAULT
+🔥 ModelX-Zeus – AI experiments  
+🛒 React E-Commerce – Modular frontend architecture  
+🧠 ML + DS Learning Path – AI fundamentals  
+📱 Mobile & Server-side Dev – Year 2 optional modules  
 
+---
 
-$ connect
-> github:    ravindu212  
-> linkedin:  your_link_here  
-> portfolio: loading...
+## ⚙️ SYSTEM STATUS
+[ SYSTEM ONLINE ]  
+[ OPERATING MODE: DEVELOPER ]  
+[ TARGET LOCKED: INNOVATION + SKILL EVOLUTION ]  
 
+---
 
-$ exit
-> Code. Break. Learn. Repeat.
+## 📊 GITHUB INTEL
+![Stats](https://github-readme-stats.vercel.app/api?username=ravindu212&show_icons=true&theme=chartreuse-dark)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu212&layout=compact&theme=chartreuse-dark)
+
+---
+
+## 🛰️ CONTACT PROTOCOL
+Email: ravindu212@your-email.com  
+LinkedIn: https://linkedin.com/in/your-profile  
+Status: Always debugging life.  
+
+---
+
+<div align="center">
+
+### 🧨 “CODE. BREAK. REPEAT.”  
+**~ END OF TRANSMISSION ~**
+
+</div>
