@@ -4,7 +4,8 @@
 
 Initializing...  
 Loading profile...  
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%<br>
+[■■■■■■■■■■■■■■■■<img src="https://cdn.pixabay.com/animation/2024/10/22/07/53/07-53-23-877_512.gif" width="20"/>■■■■■■■■■■■■■■] 100%<br>
+
 User authenticated: RAVINDU 
 
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗  
@@ -15,9 +16,10 @@ User authenticated: RAVINDU
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  
 
 ### ⚡ R A V I N D U • V I D U S A R A ⚡  
-**18 y/o Developer | IIT Student | Computer Science**
+**19 y/o Developer | IIT Student | Computer Science**
 
 </div>
+
 
 
 <p align="center">
@@ -73,19 +75,25 @@ Status: Always debugging life.
 ---
 
 
-  <p align="center">
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="100"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
-    <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
-  </p>
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="100"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
+</p>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10" style="color:#00FF00; font-family:monospace;">
+    Welcome to my GitHub Realm ⚡ Explore my projects, experiments, and engineering adventures!
+  </marquee>
+</p>
+
 
 
 ---
@@ -98,6 +106,9 @@ SYSTEM: READY FOR DEPLOYMENT █████████████████
 <div align="center">
 
 ### 🧨 “CODE. BREAK. REPEAT.”  
-**~ END OF TRANSMISSION ~**
-
+**~ END OF TRANSMISSION ~**<br><br>
+<p align="center">
+  <a href="https://github.com/ravindu212"><img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/ravindu-vidusara"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+</p>
 </div>
