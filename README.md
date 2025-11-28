@@ -20,13 +20,9 @@ User authenticated: RAVINDU
 </div>
 
 
-
-
-
-<img src="https://cdn.pixabay.com/animation/2025/10/23/10/04/10-04-45-513_512.gif" width="160"/><br>
-
-
-
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2025/10/23/10/04/10-04-45-513_512.gif" width="160"/><br>
+</p>
 
 
 ---
@@ -66,11 +62,6 @@ Aiming to become a top-tier Computer Scientist & Data Scientist.
 [ OPERATING MODE: DEVELOPER ]  
 [ TARGET LOCKED: INNOVATION + SKILL EVOLUTION ]  
 
----
-
-## 📊 GITHUB INTEL
-![Stats](https://github-readme-stats.vercel.app/api?username=ravindu212&show_icons=true&theme=chartreuse-dark)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu212&layout=compact&theme=chartreuse-dark)
 
 ---
 
@@ -81,7 +72,18 @@ Status: Always debugging life.
 
 ---
 
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="100"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/><img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/><br>
+</p>
+
+
+---
+
+
 SYSTEM: READY FOR DEPLOYMENT ████████████████████ 100%
+
+---
 
 <div align="center">
 
