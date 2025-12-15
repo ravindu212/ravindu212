@@ -8,12 +8,6 @@ Loading profile...
 
 User authenticated: RAVINDU 
 
-██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗  
-██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗  
-███████║███████║██║     █████╔╝ █████╗  ██████╔╝  
-██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗  
-██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║  
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  
 
 ### ⚡ R A V I N D U • V I D U S A R A ⚡  
 **19 y/o Developer | IIT Student | Computer Science**
@@ -75,19 +69,7 @@ Status: Always debugging life.
 ---
 
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="100"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="80"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="60"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="40"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="20"/>
-  <img src="https://cdn.pixabay.com/animation/2025/05/05/22/29/22-29-42-464_512.gif" width="10"/>
-</p>
+
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="10" style="color:#00FF00; font-family:monospace;">
     Welcome to my GitHub Realm ⚡ Explore my projects, experiments, and engineering adventures!
