@@ -16,9 +16,6 @@ User authenticated: RAVINDU
 
 
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2025/10/23/10/04/10-04-45-513_512.gif" width="160"/><br>
-</p>
 
 
 ---
