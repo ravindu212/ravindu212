@@ -1,93 +1,43 @@
-<!-- HACKER STYLE README FOR RAVINDU -->
+# Hi there, I'm Ravindu Vidusara 👋 
+**Computer Science Undergraduate @ IIT Sri Lanka & Aspiring Software Engineer**
 
-<div align="center">
-
-Initializing...  
-Loading profile...  
-[■■■■■■■■■■■■■■■■<img src="https://cdn.pixabay.com/animation/2024/10/22/07/53/07-53-23-877_512.gif" width="20"/>■■■■■■■■■■■■■■] 100%<br>
-
-User authenticated: RAVINDU 
-
-
-### ⚡ R A V I N D U • V I D U S A R A ⚡  
-**19 y/o Developer | IIT Student | Computer Science**
-
-</div>
-
-
-
-
+I am a driven software engineering student specializing in building scalable enterprise web applications and cross-platform mobile ecosystems. I approach development with a modern, high-velocity mindset—leveraging advanced AI-assisted engineering workflows to rapidly scaffold frameworks, systematically debug code, and bridge complex business architecture into production-grade software.
 
 ---
 
-## 🛠️ SKILLSET
-PYTHON ███████████████░░░░░ 87%
-
-MACHINE LEARNING ███████████░░░░░░░░ 78%
-
-REACT + TYPESCRIPT ████████████░░░░░░░ 80%
-
-JAVA ██████████░░░░░░░░░ 60%
-
-DATA ANALYSIS ██████████████░░░░░ 86%
-
-BACKEND SYSTEMS ███████████░░░░░░░░ 78%
+### 🚀 What I'm Actively Building
+* **Hardware ERP System:** Collaborating on an enterprise-grade resource planning system using **Next.js 14 (App Router)** and **TypeScript**, isolated inside a **Dockerized PostgreSQL** database with strict Role-Based Access Control (RBAC).
+* **Scalable E-Commerce Infrastructure:** Leading an architectural migration from MongoDB to **PostgreSQL** and **Next.js** for an ongoing commercial client project to guarantee long-term data consistency and performance optimization.
+* **Pet Care & Health Tracker:** Engineering a self-driven personal mobile R&D project utilizing **Flutter**, **Dart**, and **Firebase** to handle automated vaccine alerts, medical logs, and real-time scheduling.
 
 ---
 
-## 🕶️ ABOUT
-Coding since curiosity sparked.  
-Passionate about Python, algorithms, logic building.  
-Aiming to become a top-tier Computer Scientist & Data Scientist.  
+### 🛠️ Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Java, Python, HTML5, CSS3 |
+| **Frameworks & Libs** | Next.js 14, React.js, Node.js, Express.js, React Native, Flutter |
+| **Databases & ORMs** | PostgreSQL, Prisma ORM, MongoDB, Firebase (Firestore & Auth) |
+| **DevOps & Workflows** | Docker (Containerization), Git/GitHub, GitHub Actions (CI/CD Pipelines) |
+| **Specialized Skills** | Prompt Engineering, Rapid Codebase Scaffolding, Java OOP, System Design |
 
 ---
 
-## 🚀 PROJECT VAULT
-🔥 ModelX-Zeus – AI experiments  
-🛒 React E-Commerce – Modular frontend architecture  
-🧠 ML + DS Learning Path – AI fundamentals  
-📱 Algo & Server-side Dev – Year 2 optional modules  
+### 🏆 Hackathons & Triumphs
+* **Cursor AI 24-Hour Buildathon (2025):** Built an AI-driven Accessibility Avatar that lets illiterate users populate complex official government and banking documents seamlessly via voice interactions.
+* **IIT Campus SDG Competition (2025):** Awarded **🥈 2nd Place** for building an interactive, high-fidelity platform mapped to global sustainability goals.
+* **ModelX Machine Learning Hackathon (2025):** Reached the competitive **Shortlist** by engineering a predictive model pipeline to classify early-stage clinical dementia risks.
 
 ---
 
-## ⚙️ SYSTEM STATUS
-[ SYSTEM ONLINE ]  
-[ OPERATING MODE: DEVELOPER ]  
-[ TARGET LOCKED: INNOVATION + SKILL EVOLUTION ]  
-
-
----
-
-## 🛰️ CONTACT PROTOCOL
-Email: ravinduvidusara09email.com  
-LinkedIn: www.linkedin.com/in/ravindu-vidusara  
-Status: Always debugging life.  
+### ⚡ Fun Facts & Philosophy
+* 💡 **My Workflow:** I specialize in *Resource-Constrained AI Prototyping*—proving you don't need expensive enterprise tier tools to build absolute powerhouses if your prompt engineering strategy and structural logic are on point.
+* 🛡️ **Core Belief:** Code should be type-safe, environment-isolated, and built behind a strict automated linter check before it ever touches production.
+* 🌱 **Currently Learning:** Deep-diving into cloud automation, automated CI/CD pipeline deployments, and advanced system security frameworks.
 
 ---
 
-
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10" style="color:#00FF00; font-family:monospace;">
-    Welcome to my GitHub Realm ⚡ Explore my projects, experiments, and engineering adventures!
-  </marquee>
-</p>
-
-
-
----
-
-
-SYSTEM: READY FOR DEPLOYMENT ████████████████████ 100%
-
----
-
-<div align="center">
-
-### 🧨 “CODE. BREAK. REPEAT.”  
-**~ END OF TRANSMISSION ~**<br><br>
-<p align="center">
-  <a href="https://github.com/ravindu212"><img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/ravindu-vidusara"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-</p>
-</div>
+### 🤝 Connect with Me
+* 💼 **LinkedIn:** [linkedin.com/in/ravindu-vidusara](https://linkedin.com/in/ravindu-vidusara)
+* 📧 **Email:** [ravinduvidusara09@gmail.com](mailto:ravinduvidusara09@gmail.com)
