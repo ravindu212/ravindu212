@@ -1,43 +1,149 @@
-# Hi there, I'm Ravindu Vidusara 👋 
-**Computer Science Undergraduate @ IIT Sri Lanka & Aspiring Software Engineer**
+<div align="center">
 
-I am a driven software engineering student specializing in building scalable enterprise web applications and cross-platform mobile ecosystems. I approach development with a modern, high-velocity mindset—leveraging advanced AI-assisted engineering workflows to rapidly scaffold frameworks, systematically debug code, and bridge complex business architecture into production-grade software.
+# RAVINDU VIDUSARA
 
----
+### Computer Science Undergraduate · Full-Stack Developer · Systems Enthusiast
 
-### 🚀 What I'm Actively Building
-* **Hardware ERP System:** Collaborating on an enterprise-grade resource planning system using **Next.js 14 (App Router)** and **TypeScript**, isolated inside a **Dockerized PostgreSQL** database with strict Role-Based Access Control (RBAC).
-* **Scalable E-Commerce Infrastructure:** Leading an architectural migration from MongoDB to **PostgreSQL** and **Next.js** for an ongoing commercial client project to guarantee long-term data consistency and performance optimization.
-* **Pet Care & Health Tracker:** Engineering a self-driven personal mobile R&D project utilizing **Flutter**, **Dart**, and **Firebase** to handle automated vaccine alerts, medical logs, and real-time scheduling.
+Building practical software while learning what happens beneath the surface.
 
----
+<br>
 
-### 🛠️ Technical Toolkit
+<a href="https://linkedin.com/in/ravindu-vidusara">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:ravinduvidusara09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/ravindu212">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Java, Python, HTML5, CSS3 |
-| **Frameworks & Libs** | Next.js 14, React.js, Node.js, Express.js, React Native, Flutter |
-| **Databases & ORMs** | PostgreSQL, Prisma ORM, MongoDB, Firebase (Firestore & Auth) |
-| **DevOps & Workflows** | Docker (Containerization), Git/GitHub, GitHub Actions (CI/CD Pipelines) |
-| **Specialized Skills** | Prompt Engineering, Rapid Codebase Scaffolding, Java OOP, System Design |
+</div>
 
 ---
 
-### 🏆 Hackathons & Triumphs
-* **Cursor AI 24-Hour Buildathon (2025):** Built an AI-driven Accessibility Avatar that lets illiterate users populate complex official government and banking documents seamlessly via voice interactions.
-* **IIT Campus SDG Competition (2025):** Awarded **🥈 2nd Place** for building an interactive, high-fidelity platform mapped to global sustainability goals.
-* **ModelX Machine Learning Hackathon (2025):** Reached the competitive **Shortlist** by engineering a predictive model pipeline to classify early-stage clinical dementia risks.
+## About Me
+
+I'm a **Computer Science undergraduate at Informatics Institute of Technology (IIT), Sri Lanka**, interested in building complete software systems rather than focusing on only one layer of development.
+
+I work across **frontend, backend, databases, mobile applications, deployment, and system architecture**, while gradually moving deeper into backend engineering and infrastructure.
+
+I enjoy taking an idea through the entire development process:
+
+```text
+Problem
+   ↓
+Planning
+   ↓
+System Design
+   ↓
+Development
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Iteration
+```
+
+I'm especially interested in understanding **why systems are designed the way they are**, how their components communicate, and how software can remain maintainable as it grows.
 
 ---
 
-### ⚡ Fun Facts & Philosophy
-* 💡 **My Workflow:** I specialize in *Resource-Constrained AI Prototyping*—proving you don't need expensive enterprise tier tools to build absolute powerhouses if your prompt engineering strategy and structural logic are on point.
-* 🛡️ **Core Belief:** Code should be type-safe, environment-isolated, and built behind a strict automated linter check before it ever touches production.
-* 🌱 **Currently Learning:** Deep-diving into cloud automation, automated CI/CD pipeline deployments, and advanced system security frameworks.
+## What I Build
+
+```text
+Web Applications      → Full-stack platforms, dashboards and business systems
+Backend Systems       → APIs, authentication, databases and application architecture
+Mobile Applications   → Cross-platform applications with React Native and Flutter
+Commerce Systems      → E-commerce, inventory, order and management platforms
+Cloud Infrastructure  → Containers, deployments, storage and CI/CD workflows
+```
 
 ---
 
-### 🤝 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/ravindu-vidusara](https://linkedin.com/in/ravindu-vidusara)
-* 📧 **Email:** [ravinduvidusara09@gmail.com](mailto:ravinduvidusara09@gmail.com)
+## Selected Projects
+
+### 🌍 EcoPulse
+
+A climate-action platform built around **SDG 13: Climate Action**, designed to make sustainability more interactive through challenges, assessments, educational content, and environmental actions.
+
+**Stack**
+
+`Next.js` · `TypeScript` · `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy`
+
+**Areas explored**
+
+* Full-stack architecture
+* REST API development
+* Authentication
+* PostgreSQL data modelling
+* Frontend/backend separation
+* Production deployment
+
+---
+
+### 🧠 NeuroSync
+
+An ADHD-focused productivity and routine companion designed to provide a calmer and less overwhelming digital experience.
+
+Core features include:
+
+* Focus sessions
+* Routine building
+* Gamified task management
+* Emotional tracking
+* Journaling
+* AI-assisted support
+* Weekly progress summaries
+
+**Stack**
+
+`React Native` · `Expo` · `TypeScript` · `Firebase` · `Firestore`
+
+The project also involves **UX research, requirements analysis, software architecture, system design, and technical documentation**.
+
+---
+
+### 🛍️ Luvo
+
+A full-stack clothing e-commerce platform with a custom content and administration system.
+
+The platform includes:
+
+* Product and category management
+* Inventory management
+* Order processing
+* Customer management
+* Departments
+* Promotional banners
+* Authentication and authorization
+* Cloud-hosted media
+
+**Stack**
+
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `NextAuth` · `Cloudflare R2` · `Docker`
+
+---
+
+### 🐾 PawMate
+
+A mobile pet-care concept focused on organizing everyday pet information, schedules, and health-related records.
+
+**Stack**
+
+`Flutter` · `Dart`
+
+---
+
+## Engineering Interests
+
+My interests extend beyond learning frameworks or collecting technologies.
+
+```text
+01  Backend Engineering
+02  System Architecture
+03  Database Design
+04  API Design
+05  L
+```
