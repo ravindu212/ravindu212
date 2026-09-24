@@ -18,6 +18,8 @@ Building practical software while learning what happens beneath the surface.
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+<br>
+
 </div>
 
 ---
@@ -267,6 +269,10 @@ Reached the **shortlist** with a predictive machine-learning classification proj
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu212&layout=compact&hide_border=true&theme=github_dark" height="165">
 </p>
 
+<p align="center">
+  <sub>Top Languages reflects the languages detected across my public GitHub repositories.</sub>
+</p>
+
 ---
 
 ## How I Learn
@@ -312,6 +318,10 @@ Interested in software, systems, technology, or building interesting things?
 <a href="https://github.com/ravindu212">
   <img src="https://img.shields.io/badge/GitHub-ravindu212-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ravindu212&label=Visitors&color=111111&style=flat-square" alt="Visitor Counter">
 
 <br><br>
 
