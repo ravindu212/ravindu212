@@ -265,13 +265,9 @@ Reached the **shortlist** with a predictive machine-learning classification proj
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindu212&show_icons=true&hide_border=true&theme=github_dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu212&layout=compact&hide_border=true&theme=github_dark" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravindu212&theme=github_dark" height="170" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <sub>Top Languages reflects the languages detected across my public GitHub repositories.</sub>
-</p>
 
 ---
 
